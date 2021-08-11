@@ -7,4 +7,5 @@ It is mixed integer optimization problem and solved using Monotonicity analysis,
 <ins>**Proof**</ins>:  
 Refer to Results section on page number 19  
 The table consists of function value of  Monotonicity analysis, SQP with branch and bound method and genetic algorithm.  
-**Accuracy = (0.3601-0.36)/0.36**  
+**Accuracy = (0.3601-0.36)/0.36 = 0.90**
+![Results](https://github.com/Abhinandan-Kumbhar/Design-Optimization/blob/main/results.PNG)
